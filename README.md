@@ -1,1 +1,1 @@
-# AGC
+# Adapted General Control
