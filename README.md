@@ -1,8 +1,6 @@
-# Adapted General Control
+# Adapted General Control - La app de PP3 del IFTS18
 
 Adapte General Control (AGC en adelante), anteriormente llamado Control Ventas, es una herramienta para PyMES que les proporciona mayor control en las ventas, estados de cuentas con clientes, control de stock, control de personal (asistencias, adelantos salarios, comisiones, etc.), emite comprobantes de venta, de stock, estados de cuentas y asistencias.
-
-La app de PP3 del IFTS18
 
 # Anteproyecto
 
@@ -18,5 +16,3 @@ En la carpeta [`mockups`](/mockups/) se encuentran los mockups de la app.
 
 En el proyecto de Github [PP3 User Stories](https://github.com/users/AtueBrian/projects/1)
 se pueden ver las historias de usuario de esta app.
-
-
