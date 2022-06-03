@@ -16,7 +16,7 @@ En la carpeta [`mockups`](/mockups/) se encuentran los mockups de la app.
 
 # Historias de Usuario
 
-En el proyecto de Github [PP3 User Stories](https://github.com/users/lecovi/projects/1/views/1)
+En el proyecto de Github [PP3 User Stories](https://github.com/users/AtueBrian/projects/1)
 se pueden ver las historias de usuario de esta app.
 
 
