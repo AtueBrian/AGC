@@ -6,7 +6,7 @@ Adapte General Control (AGC en adelante), anteriormente llamado Control Ventas, 
 
 El anteproyecto está definido en este [documento](https://docs.google.com/document/d/1ewNhouiW9S6hskT7KyjH7b0AV6gHdzrnj1Gb6qEgzzg/)[1]
 
-[1] Si no estás cursando la materia no vas a tener acceso a este documento.
+[1] Si no sos el profesor de la materia no vas a tener acceso a este documento.
 
 # Mockups
 
